@@ -1,0 +1,3 @@
+Para la prueba de E2E, elegí la opción 1. Para esta prueba quería representar cada página con su Page Object para dar una solución más prolija. También se pueden ver algunos errores como la falta de validaciones en el formulario de Place Order, como así también la fecha en el mensaje de confirmación.
+
+En la prueba de API, elegi la opcion 3.

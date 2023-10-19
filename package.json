@@ -1,0 +1,15 @@
+{
+  "name": "qa-cy-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-e2e": "cypress run --spec cypress/e2e/purchase.cy.js",
+    "test-api": "cypress run --spec cypress/e2e/petStore-API.cy.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.2"
+  }
+}
